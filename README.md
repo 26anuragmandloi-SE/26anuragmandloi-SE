@@ -1,76 +1,81 @@
-
 <div align="center">
 
-# Hi, I'm Anurag Mandloi 👋
+# Anurag Mandloi
 
-### Aspiring Software Developer | Java | Python | Backend Development
+### Aspiring Software Developer | Java • Python • Backend Development
 
-Building practical solutions through code and continuous learning.
+I enjoy building practical software projects and exploring how technology can solve real-world problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/26anuragmandloi-SE)
+[![GitHub](https://img.shields.io/badge/GitHub-26anuragmandloi--SE-181717?style=for-the-badge&logo=github)](https://github.com/26anuragmandloi-SE)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🚀 Aspiring Software Developer
-- ☕ Learning Java and Spring Boot
-- 🐍 Exploring Python and AI technologies
-- 🔧 Interested in REST APIs and Backend Development
-- 📚 Continuously learning and building practical projects
-- 🤝 Open to collaboration and learning opportunities
+- Aspiring Software Developer focused on strengthening programming and problem-solving skills.
+- Exploring **Java, Python, Spring Boot, REST APIs, and SQL**.
+- Interested in backend development, AI-powered applications, and cybersecurity.
+- Learning by building projects and improving them step by step.
+- Open to connecting with developers, collaborating, and exploring learning opportunities.
 
----
+## Tech Stack
 
-## 🛠️ Skills & Technologies
-
-**Programming Languages**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Backend Development**
+**Backend & APIs**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
+
+| Project | Overview |
+|---|---|
+| [AI Interview Integrity System](https://github.com/26anuragmandloi-SE/Ai-interview-integrity-system) | A project focused on interview integrity and identifying potential unauthorized AI assistance. |
+| [Face Recognition Attendance System](https://github.com/26anuragmandloi-SE/face-recognition-attendance-system) | A face-recognition-based attendance project. |
+| [Cyber Threat Detection](https://github.com/26anuragmandloi-SE/cyber-threat-detection) | A project exploring cybersecurity threat detection. |
+| [Fake Link Detection](https://github.com/26anuragmandloi-SE/fake-link-detection) | A project focused on identifying potentially fraudulent links. |
+| [Vertex Talent Website](https://github.com/26anuragmandloi-SE/Vertex-Talent-Website) | Website project for Vertex Talent. |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=26anuragmandloi-SE&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=26anuragmandloi-SE&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26anuragmandloi-SE&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26anuragmandloi-SE&layout=compact&hide_border=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=26anuragmandloi-SE&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=26anuragmandloi-SE&hide_border=true&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-- GitHub: https://github.com/26anuragmandloi-SE
-- LinkedIn: Add your LinkedIn profile URL here
-- Portfolio: Coming Soon
-
----
+- **GitHub:** [@26anuragmandloi-SE](https://github.com/26anuragmandloi-SE)
+- **LinkedIn:** Add your LinkedIn profile link here
 
 <div align="center">
 
-### "Consistency turns learners into professionals."
+### “Build consistently. Learn continuously. Improve every day.”
 
-⭐ Thanks for visiting my profile!
+*Thanks for visiting my profile!*
 
 </div>
